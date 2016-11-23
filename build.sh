@@ -1,4 +1,4 @@
 #!/bin/sh
 
-g++ *.cpp -o Coco -g -Wall
+g++ *.cpp -o Coco -O3 -Wall
 
